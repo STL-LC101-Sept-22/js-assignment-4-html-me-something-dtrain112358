@@ -1,7 +1,11 @@
 article,body {
 margin: 8px;
 background-color: darkGrey;
-display: block
+display: block;
+padding-left: 75px;
+padding-right:75px;
+padding-top:50px;
+padding-bottom:75px;
 
 
 }
