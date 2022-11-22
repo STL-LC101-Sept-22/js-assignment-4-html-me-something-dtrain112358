@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+article,body {
+margin: 8px;
+background-color: darkGrey;
+display: block;
+padding-left: 75px;
+padding-right:75px;
+padding-top:50px;
+padding-bottom:75px;
+
+
+}
+
+#mainheading {
+color: red;
+text-align: center;
+border-style:double;
+border-color:blue;
+font-size: 40pt;
+
+}
+
+.funParagraph {
+color: green;
+font-size: 30pt;
+text-align: center;
+}
+
+#testP {
+color: blueviolet;
+border-color:darkblue
+
+}
